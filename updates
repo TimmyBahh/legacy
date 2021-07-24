@@ -32,3 +32,4 @@ Added suggest command
 Added suggest API
 Changed Grahpic Limit
 Changed Server Limit
+Moved bump reminder to a new node
